@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Devsteam</string>
+    <string name="refresh">Refresh</string>
+    <string name="pictures" />
 </resources>
